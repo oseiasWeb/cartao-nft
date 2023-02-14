@@ -1,6 +1,10 @@
-<h1 align="center">Cartão NFT 💳</h1>
+# Cartão de visualização NFT 💳
 
-<p>O projeto foi baseado em um desafio do site frontendmentor.com,  um dos melhores sites para praticar as técnicas de Html, Css e Js.</p>
+![Design preview for the Product preview card component coding challenge](./src/images/cartao-nft.png)
+
+NFT é a representação de um item exclusivo, que pode ser digital ou física, a exemplo de um quadro. Além de obras de artes, músicas, itens de jogos, momentos únicos no esporte e memes podem ser transformados em um.
+
+O projeto foi baseado em um desafio do site frontendmentor.com,  um dos melhores sites para praticar as técnicas de Html, Css e Js.
 
 <div align="center" valign="top"><br>
  <h2>🕹️ Tecnologias Utilizadas</h2>
@@ -10,12 +14,8 @@
     </ul><br>
 </div>
 
-<h2 align="center">🖥️ Página</h2>
-<p>Abaixo temos uma imagem da página do cartão de visualização de NFT - Desafio do FrontEndmentor:<br></p>
-<img align="center" src="./src/images/cartao-nft.png" alt="Card NFT" title="Card NFT"><p><i>Cartão de visualização de NFT.</i></p>
-
 <h2 align="center">🔗 Link da página</h2>
-<p>Logo abaixo temos o link da página para visualização e testes:</p>
+<p>Logo abaixo temos o link da página para visualização ou testes:</p>
 👉 <a href="https://oseiasweb.github.io/cartao-nft/" target="_blank">Cartão NFT</a><br><br>
 
 <h2 align="center">🏆 Status Projeto</h2>
